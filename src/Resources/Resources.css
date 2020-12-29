@@ -1,0 +1,36 @@
+.content {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto 0 auto;
+}
+
+.publications-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  width: 100%;
+  max-width: 1130px;
+  margin: 0 auto 0 auto;
+  text-align: left;
+}
+
+.publication {
+  display: flex;
+  flex-direction: column;
+  flex: 1 0 20%;
+  padding: 16px 0 16px 32px;
+  max-width: 250px;
+}
+
+.publication-project {
+  margin: 4px 0px;
+  display: block;
+  font-size: 14px;
+  color: #636363;
+}
+
+.publication-title {
+  margin: 4px 0px;
+}
+
