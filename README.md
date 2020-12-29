@@ -8,6 +8,8 @@ All the content that is presented is fetched directly from Foleon API
 
 The resource page features an infinite scroll functionality and seach bar.
 
+Styling is minimal in order to be easily embedded on different existing websites.
+
 ## Environment Dependencies
 1. node.js `v12.20.0`
 2. react `17.0.1`
